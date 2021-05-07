@@ -4,4 +4,5 @@
 
 ## current experiements
 
-- [ ] org-wide actions
+- [x] org-wide actions work
+- [ ] create some custom actions
